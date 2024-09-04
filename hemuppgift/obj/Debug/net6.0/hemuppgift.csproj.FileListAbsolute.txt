@@ -1,0 +1,14 @@
+C:\Users\fille\source\repos\hemuppgift\hemuppgift\bin\Debug\net6.0\hemuppgift.exe
+C:\Users\fille\source\repos\hemuppgift\hemuppgift\bin\Debug\net6.0\hemuppgift.deps.json
+C:\Users\fille\source\repos\hemuppgift\hemuppgift\bin\Debug\net6.0\hemuppgift.runtimeconfig.json
+C:\Users\fille\source\repos\hemuppgift\hemuppgift\bin\Debug\net6.0\hemuppgift.dll
+C:\Users\fille\source\repos\hemuppgift\hemuppgift\bin\Debug\net6.0\hemuppgift.pdb
+C:\Users\fille\source\repos\hemuppgift\hemuppgift\obj\Debug\net6.0\hemuppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fille\source\repos\hemuppgift\hemuppgift\obj\Debug\net6.0\hemuppgift.AssemblyInfoInputs.cache
+C:\Users\fille\source\repos\hemuppgift\hemuppgift\obj\Debug\net6.0\hemuppgift.AssemblyInfo.cs
+C:\Users\fille\source\repos\hemuppgift\hemuppgift\obj\Debug\net6.0\hemuppgift.csproj.CoreCompileInputs.cache
+C:\Users\fille\source\repos\hemuppgift\hemuppgift\obj\Debug\net6.0\hemuppgift.dll
+C:\Users\fille\source\repos\hemuppgift\hemuppgift\obj\Debug\net6.0\refint\hemuppgift.dll
+C:\Users\fille\source\repos\hemuppgift\hemuppgift\obj\Debug\net6.0\hemuppgift.pdb
+C:\Users\fille\source\repos\hemuppgift\hemuppgift\obj\Debug\net6.0\hemuppgift.genruntimeconfig.cache
+C:\Users\fille\source\repos\hemuppgift\hemuppgift\obj\Debug\net6.0\ref\hemuppgift.dll
