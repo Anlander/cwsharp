@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hemuppgift")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c178d45e4f80e86808dc42cadd7badf77ad724e")]
 [assembly: System.Reflection.AssemblyProductAttribute("hemuppgift")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hemuppgift")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
